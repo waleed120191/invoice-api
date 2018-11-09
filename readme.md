@@ -7,21 +7,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+# About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
-## Description
+# Description
 
 Api created using larvel for retriving items and creating invoice through data in CSV.
 
-## Composer
+# Composer
 
 git clone {URL} command will take clone of repository and bring it to local computer.
 
-## API
+# API
 
-# Endpoints
+## Endpoints
 
 1) Ping
 
@@ -35,12 +35,12 @@ GET api/item
 
 POST api/invoice
 
-# Endpoints detail
+## Endpoints detail
 
 https://abss-engineering-php-challenge.netlify.com/#operation/CalculateInvoice
 
 
-## Test cases
+# Test cases
 
 |Go to Root folder of application. And need to run following command in bash : vendor/bin/phpunit
 
